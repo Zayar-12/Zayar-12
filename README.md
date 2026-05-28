@@ -12,7 +12,7 @@
 
 🔭 I’m currently a **final year student at a computer university**
 🌱 I’m currently building advanced web apps with **React, Laravel, Livewire**
-💬 Ask me about **PHP, MySQL, Tailwind CSS... or anything [here](mailto:your-email@domain.com)**
+💬 Ask me about **PHP, MySQL, Tailwind CSS... or anything [here](mailto:zayarlintun04@gmail.com)**
 ⚡ Fun fact **Writing clean code is as creative and therapeutic as painting!**
 
 <br />
