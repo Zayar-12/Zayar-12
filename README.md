@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Visitor Counter Badge -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=visitors&color=0e76a8&style=flat" alt="visitors" align="right" />
+<!-- Visitor Counter Badge (Updated with your username!) -->
+<img src="https://komarev.com/ghpvc/?username=Zayar-12&label=visitors&color=0e76a8&style=flat" alt="visitors" align="right" />
 <br /><br />
 
 # Hi There! 👋
@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/zayar-lin-tun-779857384/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="porfolio-bbju.vercel.app">
+<a href="https://porfolio-bbju.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chromecast&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -32,10 +32,11 @@
 
 ## 🛠️ Languages-Frameworks-Tools 🛠️
 
-<!-- Your Specific Tech Stack Icons (Clean 3D/Minimal Style) -->
+<!-- Your Specific Tech Stack Icons with Livewire Added! -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" alt="livewire" width="50" height="50" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="max-width: 100%;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50" style="max-width: 100%;" />
